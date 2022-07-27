@@ -1,2 +1,4 @@
 newrelic_agent.log
 node_modules
+uploads/*
+!uploads/.gitkeep
